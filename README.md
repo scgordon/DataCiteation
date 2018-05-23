@@ -1,5 +1,7 @@
 # DataCiteation
-Investigating the implication that software citation rates are increasing exponentially from increased awareness of the need for software citation, and measuring the effect of the FORCE11 software citation recommendation on metadata records.
+Using DataCite's API to investigate DOI registration increase by resourceType, and measuring the effect of the FORCE11 software citation recommendation on metadata records.
+
+These notebooks form the basis of a blog post
 
 ## EXPLORATORY ACTIVITIES
 Our exploratory activities are documented in a series of [Jupyter notebooks here](notebooks/).
